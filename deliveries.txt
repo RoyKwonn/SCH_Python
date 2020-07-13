@@ -1,0 +1,57 @@
+창고 : 서울
+배달품목 : 아이패드프로 4세대
+주소 : 잘생긴 권석환
+멋쟁이 권석환 
+
+창고 : 아산, 충남
+배달품목 : 나의 빚 
+주소 : ㅇ야야야야호호호호호
+파맛 첵스 드삼 
+
+창고 : 종로, 서울
+배달품목 : apple
+주소 : seoul
+dobonggu
+siru
+
+창고 : 종로, 서울
+배달품목 : 클린
+주소 : 옥시크린
+싹싹싹짝짝짝
+짝짝짝
+
+Depot : 
+아산, 충남
+Description : 
+d
+Address : 
+d
+
+Depot : 
+아산, 충남
+Description : 
+d
+Address : 
+s
+
+Depot : 
+None
+Description : 
+
+Address : 
+
+
+Depot : 
+아산, 충남
+Description : 
+asdf
+Address : 
+asdf
+
+Depot : 
+종로, 서울
+Description : 
+읽기전용 테스
+Address : 
+트일기전용 테스
+
